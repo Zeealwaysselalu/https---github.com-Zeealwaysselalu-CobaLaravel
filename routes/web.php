@@ -13,3 +13,7 @@ Route::get('/layout', function () {
 Route::get('/newlayout', function () {
     return view('newLayout');
 });
+
+Route::get('/tes', function () {
+    return view('testailwind');
+});
