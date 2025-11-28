@@ -3,3 +3,4 @@
         {{$title}}
     </x-slot:title>
 </x-next>
+
